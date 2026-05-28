@@ -500,3 +500,5 @@
 | 498 | Sunderfolk - Standard Edition | Epic |
 | 499 | Down in Bermuda | Epic |
 | 500 | Tomb Raider I-III Remastered Starring Lara Croft | Epic |
+| 501 | Calico | Epic |
+| 502 | LONESTAR | Epic |
