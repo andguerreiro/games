@@ -502,3 +502,17 @@
 | 500 | Tomb Raider I-III Remastered Starring Lara Croft | Epic |
 | 501 | Calico | Epic |
 | 502 | LONESTAR | Epic |
+| 503 | Hot Brass | GOG |
+| 504 | 60 Minutes to Extinction: Escape Room | GOG |
+| 505 | Survival: Fountain of Youth | Amazon |
+| 506 | Lethal Honor - Order of the Apocalypse | Epic |
+| 507 | Fruitbus | GOG |
+| 508 | KinnikuNeko: SUPER MUSCLE CAT | Epic |
+| 509 | Pinball Spire | GOG |
+| 510 | Fantasy General | GOG |
+| 511 | Snake Core | GOG |
+| 512 | Pro Basketball Manager 2026 | Amazon |
+| 513 | Moon Mystery | Epic |
+| 514 | Palindrome Syndrome: Escape Room | GOG |
+| 515 | Space Grunts | GOG |
+
