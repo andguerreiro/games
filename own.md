@@ -516,3 +516,5 @@
 | 514 | Palindrome Syndrome: Escape Room | GOG |
 | 515 | Space Grunts | GOG |
 | 516 | Gravity Circuit | Steam |
+| 517 | Tomb Raider IV-VI Remastered | Epic |
+| 518 | XCOM: Chimera Squad | GOG |
