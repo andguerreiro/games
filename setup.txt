@@ -1,5 +1,5 @@
 # OS
-Linux (Debian, Ubuntu, Arch, etc)
+Ubuntu 24.04.5 LTS
 
 # Hardware
 AMD Ryzen 7 5700X (3.4GHz / 4.6GHz Turbo, 8 Cores / 16 Threads, AM4)
