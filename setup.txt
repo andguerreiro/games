@@ -1,5 +1,5 @@
 # OS
-Ubuntu 24.04.5 LTS
+Ubuntu 24.04.4 LTS
 
 # Hardware
 AMD Ryzen 7 5700X (3.4GHz / 4.6GHz Turbo, 8 Cores / 16 Threads, AM4)
