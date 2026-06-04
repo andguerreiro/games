@@ -518,3 +518,5 @@
 | 516 | Gravity Circuit | Steam |
 | 517 | Tomb Raider IV-VI Remastered | Epic |
 | 518 | XCOM: Chimera Squad | GOG |
+| 519 | Rogue Waters | Epic |
+| 520 | Songs of Conquest | Epic |
