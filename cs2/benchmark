@@ -1,0 +1,1 @@
+MANGOHUD=1 MANGOHUD_CONFIG=fps,frametime,cpu_stats,gpu_stats,ram,vram,log_duration=60,output_folder=$HOME/Documents,output_file=cs2 %command%
