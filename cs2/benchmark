@@ -20,9 +20,11 @@ GraveAudio DA06 (Chip CX31993 USB-C P2)
 Sennheiser IE 100 PRO In-Ear Monitors (IEM)
 Comfast CF-WU785AC AC1300 (Chipset MediaTek MT7612U)
 
+All cs2 graphical, fps_max, other configs are the same.
+
 All tests in June 8, 2026:
 
-# Win11 + AMD Anti-Lag 2
+# Win11 + AMD Anti-Lag 2 + cs2 dx11
 Computer Information:
 Manufacturer: ASUS
 Model: System Product Name
@@ -160,7 +162,7 @@ Launch option: none
 
 
 
-# CachyOS + KDE Plasma Wayland + gamemode
+# CachyOS + KDE Plasma Wayland + gamemode + cs2 vulkan (linux native)
 Computer Information:
 Manufacturer: ASUSTeK COMPUTER INC.
 Model: TUF GAMING B550M-PLUS
@@ -292,7 +294,7 @@ Launch option: gamemoderun %command%
 
 
 
-# SteamOS + Gaming Mode + gamescope + no fps limit
+# SteamOS + Gaming Mode + gamescope with no fps limit + cs2 vulkan (linux native)
 Computer Information:
 Manufacturer: ASUSTeK COMPUTER INC.
 Model: TUF GAMING B550M-PLUS
