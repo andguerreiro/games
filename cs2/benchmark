@@ -376,7 +376,7 @@ Driver: AMD AMD Radeon RX 7600 (radeonsi, navi33, LLVM 18.1.8, DRM 3.59, 6.11.11
 Driver Version: 4.6 (Compatibility Profile) Mesa 24.3.4 (git-8d0948917e)
 OpenGL Version: 4.6
 Desktop Color Depth: 24 bits per pixel
-Monitor Refresh Rate: 60 Hz
+Monitor Refresh Rate: 239 Hz
 VendorID: 0x1002
 DeviceID: 0x7480
 Revision Not Detected
@@ -398,7 +398,7 @@ Miscellaneous:
 UI Language: English
 LANG: en_US.UTF-8
 Total Hard Disk Space Available: 475758 MB
-Largest Free Hard Disk Block: 405853 MB
+Largest Free Hard Disk Block: 403127 MB
 Storage:
 Number of SSDs: 1
 SSD sizes: 512G
