@@ -34,7 +34,6 @@ CPU Family: 0x19
 CPU Model: 0x21
 CPU Stepping: 0x2
 CPU Type: 0x0
-Speed: 3400 MHz
 16 logical processors
 8 physical processors
 Hyper-threading: Supported
@@ -174,7 +173,6 @@ CPU Family: 0x19
 CPU Model: 0x21
 CPU Stepping: 0x2
 CPU Type: 0x0
-Speed: 4665 MHz
 16 logical processors
 8 physical processors
 Hyper-threading: Supported
@@ -307,7 +305,6 @@ CPU Family: 0x19
 CPU Model: 0x21
 CPU Stepping: 0x2
 CPU Type: 0x0
-Speed: 4665 MHz
 16 logical processors
 8 physical processors
 Hyper-threading: Supported
