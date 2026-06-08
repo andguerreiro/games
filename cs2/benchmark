@@ -1,6 +1,8 @@
 CS2 FPS BENCHMARK DUST2 (Steam Workshop):
 https://steamcommunity.com/sharedfiles/filedetails/?id=3240880604
 
+# Question: Which software stack (OS + driver + API + compositor + scheduler) gives me better frametime behavior on this specific hardware, in this specific game scenario?
+
 # Hardware
 AMD Ryzen 7 5700X (3.4GHz / 4.6GHz Turbo, 8 Cores / 16 Threads, AM4)
 ASUS Dual Radeon RX 7600 V2 8GB GDDR6
@@ -20,7 +22,7 @@ GraveAudio DA06 (Chip CX31993 USB-C P2)
 Sennheiser IE 100 PRO In-Ear Monitors (IEM)
 Comfast CF-WU785AC AC1300 (Chipset MediaTek MT7612U)
 
-All cs2 graphical, fps_max, other configs are the same.
+All cs2 graphical and other configs are the same.
 
 All tests in June 8, 2026:
 
