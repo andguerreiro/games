@@ -1,1 +1,143 @@
-MANGOHUD=1 MANGOHUD_CONFIG=fps,frametime,histogram,log_duration=0,output_folder=$HOME/Documents,output_file=cs2 %command%
+CS2 FPS BENCHMARK DUST2
+https://steamcommunity.com/sharedfiles/filedetails/?id=3240880604
+
+# CachyOS
+Computer Information:
+Manufacturer: ASUSTeK COMPUTER INC.
+Model: TUF GAMING B550M-PLUS
+Form Factor: Desktop
+No Touch Input Detected
+Processor Information:
+CPU Vendor: AuthenticAMD
+CPU Brand: AMD Ryzen 7 5700X 8-Core Processor
+CPU Family: 0x19
+CPU Model: 0x21
+CPU Stepping: 0x2
+CPU Type: 0x0
+Speed: 4665 MHz
+16 logical processors
+8 physical processors
+Hyper-threading: Supported
+FCMOV: Supported
+SSE2: Supported
+SSE3: Supported
+SSSE3: Supported
+SSE4a: Supported
+SSE41: Supported
+SSE42: Supported
+AES: Supported
+AVX: Supported
+AVX2: Supported
+AVX512F: Unsupported
+AVX512PF: Unsupported
+AVX512ER: Unsupported
+AVX512CD: Unsupported
+AVX512VNNI: Unsupported
+SHA: Supported
+CMPXCHG16B: Supported
+LAHF/SAHF: Supported
+PrefetchW: Unsupported
+BMI1: Supported
+BMI2: Supported
+F16C: Supported
+FMA: Supported
+Operating System:
+CachyOS (64 bit)
+Kernel Name: Linux
+Kernel Version: 7.0.11-1-cachyos
+X Server Vendor: The X.Org Foundation
+X Server Release: 12401012
+X Window Manager: KWin
+Steam Runtime Version: steam-runtime_1.0.20260430.230225
+Client Information:
+Version: 1780352834
+Browser GPU Acceleration Status: Enabled
+Browser Canvas: Enabled
+Browser Canvas out-of-process rasterization: Enabled
+Browser Direct Rendering Display Compositor: Disabled
+Browser Compositing: Enabled
+Browser Multiple Raster Threads: Enabled
+Browser OpenGL: Enabled
+Browser Rasterization: Enabled
+Browser Raw Draw: Disabled
+Browser Skia Graphite: Disabled
+Browser Video Decode: Enabled
+Browser Video Encode: Disabled
+Browser Vulkan: Disabled
+Browser WebGL: Enabled
+Browser WebGL2: Enabled
+Browser WebGPU: Disabled
+Browser WebNN: Disabled
+Video Card:
+Driver: AMD AMD Radeon RX 7600 (radeonsi, navi33, ACO, DRM 3.64, 7.0.11-1-cachyos)
+Driver Version: 4.6 (Compatibility Profile) Mesa 26.1.2-arch2.1
+OpenGL Version: 4.6
+Desktop Color Depth: 24 bits per pixel
+Monitor Refresh Rate: 239 Hz
+VendorID: 0x1002
+DeviceID: 0x7480
+Revision Not Detected
+Number of Monitors: 1
+Number of Logical Video Cards: 1
+Primary Display Resolution: 1920 x 1080
+Desktop Resolution: 1920 x 1080
+Primary Display Size: 21.42" x 11.93" (24.49" diag), 54.4cm x 30.3cm (62.2cm diag)
+Primary VRAM: 8192 MB
+Sound card:
+Audio device: USB Mixer
+Memory:
+RAM: 15894 Mb
+VR Hardware:
+VR Headset: None detected
+No VR configuration with trackers detected
+Most number of trackers in a session: 0
+Miscellaneous:
+UI Language: English
+LANG: en_US.UTF-8
+Total Hard Disk Space Available: 477606 MB
+Largest Free Hard Disk Block: 368603 MB
+Storage:
+Number of SSDs: 1
+SSD sizes: 512G
+Number of HDDs: 0
+Number of removable drives: 0
+
+[VProf] 
+[VProf] -- Performance report --
+[VProf] Summary of 68620 frames and 122 1-second intervals.  (6708 frames excluded from analysis.)
+[VProf] FPS: Avg=563.8, P1=187.1
+[VProf] 
+[VProf]                         All frames         Active frames       1s max (all)      1s max (active)  
+[VProf]                           Avg    P99        N    Avg    P99      P50    P95        N    P50    P95
+[VProf] ---------------------- ------ ------   ------ ------ ------   ------ ------   ------ ------ ------
+[VProf]             FrameTotal   1.77   5.34    68620   1.77   5.34     5.54   7.02      122   5.54   7.02
+[VProf]       Client Rendering   1.13   2.17    68620   1.13   2.17     1.63   2.68      122   1.63   2.68
+[VProf]         Frame Boundary   0.75   1.82    68620   0.75   1.82     1.23   2.29      122   1.23   2.29
+[VProf]      Client Simulation   0.22   0.75    68620   0.22   0.75     0.89   1.13      122   0.89   1.13
+[VProf]      Server Simulation   0.20   2.07     7788   1.74   2.41     2.23   2.95      122   2.23   2.95
+[VProf]    ClientSimulateFrame   0.18   0.32    68620   0.18   0.32     0.35   0.47      122   0.35   0.47
+[VProf]   Present_RenderDevice   0.16   0.95    68620   0.16   0.95     0.46   1.37      122   0.46   1.37
+[VProf]            Server Game   0.16   1.72     7788   1.41   2.02     1.86   2.52      122   1.86   2.52
+[VProf]           UserCommands   0.07   0.69     7788   0.59   0.79     0.76   0.99      122   0.76   0.99
+[VProf]     ClientSimulateTick   0.04   0.50     7788   0.33   0.60     0.57   0.80      122   0.57   0.80
+[VProf]       Server Animation   0.03   0.30     7788   0.28   0.37     0.36   0.44      122   0.36   0.44
+[VProf]                   NPCs   0.02   0.24     7788   0.20   0.27     0.28   0.67      122   0.28   0.67
+[VProf] Server Send Networking   0.02   0.21     7788   0.18   0.28     0.26   0.34      122   0.26   0.34
+[VProf]             Networking   0.02   0.18     7791   0.16   0.24     0.28   0.49      122   0.28   0.49
+[VProf]    Server PackEntities   0.01   0.12     7788   0.11   0.18     0.17   0.24      122   0.17   0.24
+[VProf]         SoundOperators   0.00   0.00      579   0.19   0.40     0.22   0.39      110   0.23   0.40
+[VProf]                  Magic   0.00   0.00      330   0.12   0.29     0.00   0.26       41   0.19   0.35
+[VProf] 
+[VProf] VProfLite stopped.
+
+[and@cachyos ~]$ cd Documents/
+[and@cachyos Documents]$ ls
+cs2_2026-06-07_21-08-11.csv  cs2_2026-06-07_21-08-11_summary.csv
+[and@cachyos Documents]$ cat cs2_2026-06-07_21-08-11_summary.csv
+0.1% Min FPS,1% Min FPS,97% Percentile FPS,Average FPS,GPU Load,CPU Load,Average Frame Time,Average GPU Temp,Average CPU Temp,Average VRAM Used,Average RAM Used,Average Swap Used,Peak GPU Load,Peak CPU Load,Peak GPU Temp,Peak CPU Temp,Peak VRAM Used,Peak RAM Used,Peak Swap Used
+163.046,183.649,966.557,534.8,84.8,27.6,1.9,67.0,53.0,5.5,7.1,1.1,98,33.1,70,59,5.5,7.4,1.1
+
+Launch option: MANGOHUD=1 MANGOHUD_CONFIG=fps,frametime,histogram,log_duration=0,output_folder=$HOME/Documents,output_file=cs2 %command%
+
+# Win11
+
