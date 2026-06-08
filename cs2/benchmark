@@ -140,4 +140,141 @@ cs2_2026-06-07_21-08-11.csv  cs2_2026-06-07_21-08-11_summary.csv
 Launch option: MANGOHUD=1 MANGOHUD_CONFIG=fps,frametime,histogram,log_duration=0,output_folder=$HOME/Documents,output_file=cs2 %command%
 
 # Win11
+Computer Information:
+Manufacturer: ASUS
+Model: System Product Name
+No Touch Input Detected
+Processor Information:
+CPU Vendor: AuthenticAMD
+CPU Brand: AMD Ryzen 7 5700X 8-Core Processor
+CPU Family: 0x19
+CPU Model: 0x21
+CPU Stepping: 0x2
+CPU Type: 0x0
+Speed: 3400 MHz
+16 logical processors
+8 physical processors
+Hyper-threading: Supported
+FCMOV: Unsupported
+SSE2: Supported
+SSE3: Supported
+SSSE3: Supported
+SSE4a: Supported
+SSE41: Supported
+SSE42: Supported
+AES: Supported
+AVX: Supported
+AVX2: Supported
+AVX512F: Unsupported
+AVX512PF: Unsupported
+AVX512ER: Unsupported
+AVX512CD: Unsupported
+AVX512VNNI: Unsupported
+SHA: Supported
+CMPXCHG16B: Supported
+LAHF/SAHF: Supported
+PrefetchW: Unsupported
+BMI1: Supported
+BMI2: Supported
+F16C: Supported
+FMA: Supported
+Operating System:
+Windows 11 (64 bit)
+NTFS: Supported
+Secure Boot: Disabled or Unsupported
+TPM Version: 2.0
+Client Information:
+Version: 1780352834
+Browser GPU Acceleration Status: Enabled
+Browser Canvas: Enabled
+Browser Canvas out-of-process rasterization: Enabled
+Browser Direct Rendering Display Compositor: Disabled
+Browser Compositing: Enabled
+Browser Multiple Raster Threads: Enabled
+Browser OpenGL: Enabled
+Browser Rasterization: Enabled
+Browser Raw Draw: Disabled
+Browser Skia Graphite: Disabled
+Browser Video Decode: Enabled
+Browser Video Encode: Enabled
+Browser Vulkan: Disabled
+Browser WebGL: Enabled
+Browser WebGL2: Enabled
+Browser WebGPU: Enabled
+Browser WebNN: Disabled
+Video Card:
+Driver: AMD Radeon RX 7600
+Driver Version: 32.0.31019.2002
+DirectX Driver Version: 32.0.31019.2002
+Driver Date: 5 29 2026
+Desktop Color Depth: 32 bits per pixel
+Monitor Refresh Rate: 240 Hz
+DirectX Card: AMD Radeon RX 7600
+VendorID: 0x1002
+DeviceID: 0x7480
+Revision: 0xcf
+Number of Monitors: 1
+Number of Logical Video Cards: 1
+No SLI or Crossfire Detected
+Primary Display Resolution: 1920 x 1080
+Desktop Resolution: 1920 x 1080
+Primary Display Size: 21.42" x 11.93" (24.49" diag), 54.4cm x 30.3cm (62.2cm diag)
+Primary Bus Type Not Detected
+Primary VRAM: 8133 MB
+Sound card:
+Audio device: Headphones (CX31993 384Khz HIFI
+Memory:
+RAM: 16296 Mb
+VR Hardware:
+VR Headset: None detected
+No VR configuration with trackers detected
+Most number of trackers in a session: 0
+Miscellaneous:
+UI Language: English
+Media Type: Undetermined
+Total Hard Disk Space Available: 487432 MB
+Largest Free Hard Disk Block: 372016 MB
+Game Controller: None detected
+MAC Address hash: a80f61103de12f2246a11cf0c0836acd7668b484
+Storage:
+Disk serial number hash: 9a3bfa23
+Number of SSDs: 1
+SSD sizes: 512G
+Number of HDDs: 0
+Number of removable drives: 0
 
+
+[VProf] 
+[VProf] -- Performance report --
+[VProf] Summary of 66287 frames and 123 1-second intervals.  (3576 frames excluded from analysis.)
+[VProf] FPS: Avg=539.5, P1=175.9
+[VProf] 
+[VProf]                         All frames         Active frames       1s max (all)      1s max (active)  
+[VProf]                           Avg    P99        N    Avg    P99      P50    P95        N    P50    P95
+[VProf] ---------------------- ------ ------   ------ ------ ------   ------ ------   ------ ------ ------
+[VProf]             FrameTotal   1.85   5.68    66287   1.85   5.68     5.85   7.44      123   5.85   7.44
+[VProf]       Client Rendering   1.10   1.58    66287   1.10   1.58     1.57   2.45      123   1.57   2.45
+[VProf]         Frame Boundary   0.75   1.28    66287   0.75   1.28     1.22   2.47      123   1.22   2.47
+[VProf]      Client Simulation   0.24   0.83    66287   0.24   0.83     0.93   1.12      123   0.93   1.12
+[VProf]      Server Simulation   0.23   2.38     7862   1.96   2.65     2.51   3.38      123   2.51   3.38
+[VProf]    ClientSimulateFrame   0.20   0.36    66287   0.20   0.36     0.38   0.64      123   0.38   0.64
+[VProf]            Server Game   0.19   2.02     7862   1.62   2.30     2.09   2.90      123   2.09   2.90
+[VProf]   Present_RenderDevice   0.15   0.76    66287   0.15   0.76     0.55   1.13      123   0.55   1.13
+[VProf]           UserCommands   0.08   0.89     7862   0.66   1.03     0.86   1.18      123   0.86   1.18
+[VProf]     ClientSimulateTick   0.04   0.55     7862   0.36   0.62     0.60   0.80      123   0.60   0.80
+[VProf]       Server Animation   0.04   0.35     7862   0.32   0.46     0.42   0.52      123   0.42   0.52
+[VProf]                   NPCs   0.03   0.29     7862   0.23   0.36     0.33   0.78      123   0.33   0.78
+[VProf] Server Send Networking   0.02   0.23     7862   0.20   0.27     0.27   0.36      123   0.27   0.36
+[VProf]             Networking   0.02   0.20     7866   0.18   0.25     0.27   0.58      123   0.27   0.58
+[VProf]    Server PackEntities   0.01   0.14     7862   0.12   0.21     0.18   0.26      123   0.18   0.26
+[VProf]     InterpolationLatch   0.01   0.14     7862   0.12   0.21     0.19   0.26      123   0.19   0.26
+[VProf]         SoundOperators   0.00   0.00      254   0.18   0.41     0.17   0.31       97   0.20   0.33
+[VProf]                  Magic   0.00   0.00      330   0.11   0.34     0.00   0.28       40   0.18   0.38
+[VProf]      PanoramaTextPango   0.00   0.00        1   0.14   0.14     0.00   0.00        1   0.14   0.14
+[VProf] 
+[VProf] VProfLite stopped.
+
+File,Application Name,Compositor,Date and Time,Average FPS (Application),Average frame time (ms) (Application),Minimum frame time (ms) (Application),Maximum frame time (ms) (Application),Median frame time (ms) (Application),Standard deviation of frame time (ms) (Application),0.1st-percentile frame time (ms) (Application),1st-percentile frame time (ms) (Application),5th-percentile frame time (ms) (Application),25th-percentile frame time (ms) (Application),75th-percentile frame time (ms) (Application),95th-percentile frame time (ms) (Application),99th-percentile frame time (ms) (Application),99.9th-percentile frame time (ms) (Application),Missed frames (Application),Average number of missed frames (Application),Maximum number of consecutive missed frames (Application),Missed frames (Compositor),Average number of missed frames (Compositor),Maximum number of consecutive missed frames (Compositor),Average Estimated Driver Lag (ms),Width,Height,User Note,Motherboard,OS,Processor,System RAM,Base Driver Version,Driver Package,GPU #,GPU,GPU Core Clock (MHz),GPU Memory Clock (MHz),GPU Memory (MB)
+OCAT-cs2.exe-2026-06-08T075520.csv,cs2.exe,DWM,20260608-075520,538.3,1.9,0.7,11.7,1.5,1.2,0.8,0.9,1.1,1.3,1.7,5.0,5.7,6.4,0,0.0,0,0,0.0,0,4.0,1280,960,,"ASUSTeK COMPUTER INC. TUF GAMING B550M-PLUS","Windows 11 Home 25H2 OS Build 26200.8457","AMD Ryzen 7 5700X 8-Core Processor             ",16 GB DDR4 3200 MT/s,26.6.1,26.10.19.02-260521a-201164C-AMD-Software-Adrenalin-Edition,1,AMD Radeon RX 7600,2283,2250,8176
+
+Launch option: none
