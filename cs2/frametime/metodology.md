@@ -1,9 +1,13 @@
-# CS2
-Dust2 map with bots in infinite warm-up, 120 seconds log with fps_max 0, 400 and 480
+# CS2 Frametime Analysis
+
+## Test
+Dust2 map with bots in infinite warm-up, 120 seconds frametime log with fps_max 400, 480 and 0
+
+## Settings
 1280x960 Stretched Fullscreen
 CMAA2, Low, All, Medium, Anisotropic 4x, Low, Low, Disable, Quality, Disable
 
-# Linux
+## Linux
 Operating System: Arch Linux 
 KDE Plasma Version: 6.6.5
 KDE Frameworks Version: 6.26.0
@@ -15,8 +19,9 @@ Compositor Scaling: KDE Native Stretched (No Gamescope)
 Resizable BAR (SAM): Enabled
 Frametime log tool: mangohud
 Steam launch option: gamemoderun %command%
+CS2 Graphical API: Vulkan
 
-# Windows
+## Windows
 Operating System: Windows 11 Home 25H2 (Build 26200.8655)
 AMD Adrenalin Version: 26.6.1
 Hardware-Accelerated GPU Scheduling (HAGS): Enabled
@@ -25,8 +30,9 @@ Resizable BAR (SAM): Enabled
 Game Mode: Enabled
 Frametime log tool: OCAT
 Steam launch option: None
+CS2 Graphical API: DX11
 
-# Hardware
+## Hardware
 AMD Ryzen 7 5700X (3.4GHz / 4.6GHz Turbo, 8 Cores / 16 Threads, AM4)
 ASUS Dual Radeon RX 7600 V2 8GB GDDR6
 XPG Gammix D10 16GB (2x8GB) DDR4 3200MHz CL16
@@ -35,3 +41,11 @@ ASUS TUF Gaming B550M-Plus (Chipset AMD B550, Socket AM4, Micro ATX)
 DeepCool AK400 Air Cooler
 Cooler Master MWE Gold 650W V3 (80 Plus Gold)
 Corsair 480T Airflow Mid-Tower ATX
+
+# Results
+
+## Linux
+![](linux.png)
+
+## Windows
+![](windows.png)
