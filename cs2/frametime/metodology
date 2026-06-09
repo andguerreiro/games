@@ -17,8 +17,8 @@ Frametime log tool: mangohud
 Steam launch option: gamemoderun %command%
 
 # Windows
-Operating System: Windows 11 Home 25H2
-AMD Adrenalin Version: 26.X
+Operating System: Windows 11 Home 25H2 (Build 26200.8655)
+AMD Adrenalin Version: 26.6.1
 Hardware-Accelerated GPU Scheduling (HAGS): Enabled
 Windows Power Plan: Performance
 Resizable BAR (SAM): Enabled
