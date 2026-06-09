@@ -35,7 +35,7 @@ When utilizing a modern mid-range AMD hardware configuration (Ryzen 7 5700X / RX
 ### Hardware Specifications
 * **CPU:** AMD Ryzen 7 5700X (3.4GHz / 4.6GHz Turbo, 8C/16T, AM4)
 * **GPU:** ASUS Dual Radeon RX 7600 V2 8GB GDDR6
-* **RAM:** XPG Gammix D10 16GB (2x8GB) DDR4 3200MHz CL16
+* **RAM:** XPG Gammix D10 16GB (2x8GB) DDR4 3200MHz CL16 (XMP Enabled)
 * **Storage:** Kingston KC3000 512GB NVMe PCIe 4.0 M.2 SSD
 * **Motherboard:** ASUS TUF Gaming B550M-Plus (AMD B550)
 * **Cooler:** DeepCool AK400 Air Cooler
