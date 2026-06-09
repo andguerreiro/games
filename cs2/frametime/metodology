@@ -1,0 +1,24 @@
+# CS2
+Dust2 map with bots in infinite warm-up, 120 seconds log with fps_max 0, 400, 480
+1280x960 Stretched Fullscreen
+CMAA2, Low, All, Medium, Anisotropic 4x, Low, Low, Disable, Quality, Disable
+
+# Linux
+Operating System: Arch Linux 
+KDE Plasma Version: 6.6.5
+KDE Frameworks Version: 6.26.0
+Qt Version: 6.11.1
+Kernel Version: 7.0.11-arch1-1 (64-bit)
+Graphics Platform: Wayland
+Frametime log tool: mangohud
+Steam launch option: gamemoderun %command%
+
+# Hardware
+AMD Ryzen 7 5700X (3.4GHz / 4.6GHz Turbo, 8 Cores / 16 Threads, AM4)
+ASUS Dual Radeon RX 7600 V2 8GB GDDR6
+XPG Gammix D10 16GB (2x8GB) DDR4 3200MHz CL16
+SSD Kingston KC3000 512GB NVMe PCIe 4.0 M.2
+ASUS TUF Gaming B550M-Plus (Chipset AMD B550, Socket AM4, Micro ATX)
+DeepCool AK400 Air Cooler
+Corsair 480T Airflow Mid-Tower ATX
+Cooler Master MWE Gold 650W V3 (80 Plus Gold)
