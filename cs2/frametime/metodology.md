@@ -13,7 +13,7 @@ When utilizing a modern mid-range AMD hardware configuration (Ryzen 7 5700X / RX
 * **Frame Caps Tested (`fps_max`):** 0 (Uncapped), 480, 400.
 
 ### Advanced Video Settings
-* **Resolution:** 1280x960 Stretched Fullscreen
+* **Resolution:** 1280x960 Stretched Fullscreen (Exclusive on Windows and Windowed on Linux)
 
 | CS2 In-Game Setting Option | Value |
 | :--- | :--- |
