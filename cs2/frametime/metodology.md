@@ -57,7 +57,7 @@ When utilizing a modern mid-range AMD hardware configuration (Ryzen 7 5700X / RX
 * **Graphics Driver:** AMD Adrenalin 26.6.1
 * **API / Optimization:** DX11 | HAGS Enabled | Performance Power Plan | SAM Enabled | Game Mode Enabled
 * **Capture Tool:** OCAT
-* **Launch Option:** none
+* **Launch Option:** -allow_third_party_software
 
 ---
 
