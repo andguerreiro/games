@@ -520,3 +520,5 @@
 | 518 | XCOM: Chimera Squad | GOG |
 | 519 | Rogue Waters | Epic |
 | 520 | Songs of Conquest | Epic |
+| 521 | Warhammer 40,000 : Speed Freeks | Epic |
+| 522 | The Ouroboros King | Epic |
