@@ -44,7 +44,7 @@ When utilizing a modern mid-range AMD hardware configuration (Ryzen 7 5700X / RX
 
 ### Linux Environment
 * **OS:** Arch Linux
-* **Kernel:** 7.0.12-arch1-1 (64-bit) and 7.0.12-zen1-1-zen (64-bit)
+* **Kernel:** 7.0.12-zen1-1-zen (64-bit)
 * **Desktop Environment:** KDE Plasma 6.6.5 (Frameworks 6.26.0 / Qt 6.11.1)
 * **Display Server:** Wayland (KDE Native Stretched, No Gamescope)
 * **Graphics Driver:** Mesa 26.1.2-arch1.1 (RADV)
@@ -66,33 +66,8 @@ When utilizing a modern mid-range AMD hardware configuration (Ryzen 7 5700X / RX
 ### Linux Performance Data
 ![](linux.png)
 
-### Linux-zen Performance Data
-![](linux-zen.png)
-
 ### Windows Performance Data
 ![](windows.png)
 
 ---
 
-## Performance Ranking & Synthesis
-
-The 9 tested configurations are ranked below based on a balanced evaluation of maximizing average frame rates and elevating the lowest frame drops (1% and 0.1% Lows) to eliminate micro-stutters:
-
-1. **Linux-Zen — Uncapped (`fps_max 0`)** (Best overall frametime floors and peak FPS)
-2. **Linux Stock — Uncapped (`fps_max 0`)**
-3. **Windows 11 — Uncapped (`fps_max 0`)** (Best absolute frame-to-frame consistency/STDEV)
-4. **Linux-Zen — Capped 480 FPS**
-5. **Windows 11 — Capped 480 FPS**
-6. **Linux Stock — Capped 480 FPS**
-7. **Linux-Zen — Capped 400 FPS**
-8. **Windows 11 — Capped 400 FPS**
-9. **Linux Stock — Capped 400 FPS**
-
----
-
-## Final Conclusions
-
-* **The Linux-Zen Edge:** Running Arch Linux with the optimized Linux-Zen kernel completely uncapped yields the best results. It delivers the highest 0.1% low (137.66 FPS), outperforming Windows 11 by ~11 FPS and stock Linux by ~14 FPS. The Zen kernel's CPU scheduling significantly mitigates heavy micro-stutters.
-* **Capping Hurts Performance:** Artificially limiting the frame rate via `fps_max` (480 or 400) degrades performance across all systems. Instead of smoothing frame pacing, engine limits systematically lower both the average FPS and the 1%/0.1% percentile baselines. CS2 runs optimal when entirely uncapped.
-* **Windows Consistency vs. Linux Ceiling:** Windows 11 under DX11 registers the tightest mathematical consistency with the lowest Standard Deviation (151.10). However, it sacrifices raw throughput and dips lower during worst-case stutter scenarios compared to Linux-Zen.
-* **Statistical Relevance:** The differences between OS/Kernel layers and Uncapped vs. Capped states are statistically significant with clear shifts in data distribution. Conversely, the internal performance variance between capping at 480 FPS versus 400 FPS is mostly statistical noise and virtually indistinguishable during gameplay.
