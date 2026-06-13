@@ -44,7 +44,7 @@ When utilizing a modern mid-range AMD hardware configuration (Ryzen 7 5700X / RX
 
 ### Linux Environment
 * **OS:** Arch Linux
-* **Kernel:** 7.0.11-arch1-1 (64-bit) and 7.0.12-zen1-1-zen (64-bit)
+* **Kernel:** 7.0.12-arch1-1 (64-bit) and 7.0.12-zen1-1-zen (64-bit)
 * **Desktop Environment:** KDE Plasma 6.6.5 (Frameworks 6.26.0 / Qt 6.11.1)
 * **Display Server:** Wayland (KDE Native Stretched, No Gamescope)
 * **Graphics Driver:** Mesa 26.1.2-arch1.1 (RADV)
