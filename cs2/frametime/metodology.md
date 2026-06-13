@@ -44,13 +44,13 @@ When utilizing a modern mid-range AMD hardware configuration (Ryzen 7 5700X / RX
 
 ### Linux Environment
 * **OS:** Arch Linux
-* **Kernel:** 7.0.11-arch1-1 (64-bit)
+* **Kernel:** 7.0.11-arch1-1 (64-bit) and 7.0.12-zen1-1-zen (64-bit)
 * **Desktop Environment:** KDE Plasma 6.6.5 (Frameworks 6.26.0 / Qt 6.11.1)
 * **Display Server:** Wayland (KDE Native Stretched, No Gamescope)
 * **Graphics Driver:** Mesa 26.1.2-arch1.1 (RADV)
 * **API / Optimization:** Vulkan | Smart Access Memory (SAM) Enabled
 * **Capture Tool:** MangoHud
-* **Launch Option:** gamemoderun %command%
+* **Launch Option:** MANGOHUD_CONFIG="output_folder=~/Documents,output_file=cs2,log_duration=120" gamemoderun mangohud %command%
 
 ### Windows Environment
 * **OS:** Windows 11 Home 25H2 (Build 26200.8655)
@@ -66,30 +66,11 @@ When utilizing a modern mid-range AMD hardware configuration (Ryzen 7 5700X / RX
 ### Linux Performance Data
 ![](linux.png)
 
+### Linux-zen Performance Data
+![](linux-zen.png)
+
 ### Windows Performance Data
 ![](windows.png)
 
 ---
 
-## Conclusion
-
-After analyzing the 120-second frametime logs across both operating systems and frame rate caps, **Windows with `fps_max 480`** emerges as the most balanced configuration for this hardware setup (Ryzen 7 5700X / RX 7600). 
-
-While Linux Uncapped (`0`) achieves the absolute highest raw performance with an average of 402.40 FPS, it comes at the cost of the highest frame variance, as evidenced by its elevated Standard Deviation (160.82). This high STDEV indicates less consistent frame delivery, which matches the visible micro-stutters reflected in its lower 0.1% lows. 
-
-Conversely, capping the frame rate to 480 FPS on Windows strikes the perfect statistical balance. It sacrifices a negligible amount of average performance (~20 FPS) but stabilizes frame pacing significantly. This configuration yields a much tighter Standard Deviation (150.92) compared to the uncapped runs while simultaneously securing the highest 0.1% lows (126.25 FPS). This mathematical consistency guarantees excellent competitive responsiveness with minimal frame-to-frame pacing spikes during intense gameplay.
-
-### Scenario Ranking (Best to Worst Balance)
-
-1. **Windows - `fps_max 480`** (Score: 10/10)  
-   * **Why:** The ideal sweet spot. It pairs exceptional 0.1% lows (126.25 FPS) with a controlled standard deviation (150.92), ensuring smooth frame delivery without severely throttling your hardware's potential (376.20 FPS average).
-2. **Linux - `fps_max 0` (Uncapped)** (Score: 9/10)  
-   * **Why:** Delivers the absolute highest raw performance (402.40 FPS average) and the best 1% lows (159.56 FPS). It takes second place because it suffers from the worst frame-to-frame instability, holding the highest STDEV (160.82) in the entire test.
-3. **Windows - `fps_max 0` (Uncapped)** (Score: 8.5/10)  
-   * **Why:** Extremely competitive raw performance (395.61 FPS average) paired with great 0.1% lows (126.17 FPS). Its STDEV (151.10) is solid, but it remains slightly less consistent than its capped 480 counterpart.
-4. **Linux - `fps_max 480`** (Score: 7.5/10)  
-   * **Why:** Respectable average performance (351.35 FPS) and a decent STDEV baseline (151.63), but it experiences a sharper drop-off in 1% and 0.1% lows compared to Windows at the same cap.
-5. **Windows - `fps_max 400`** (Score: 6.5/10)  
-   * **Why:** Offers the lowest standard deviation (136.21) across all tests, making it the most mathematically stable configuration. However, it ranks lower because it chokes overall performance too aggressively, dropping average frame rates down to 324.15 FPS.
-6. **Linux - `fps_max 400`** (Score: 5/10)  
-   * **Why:** The weakest baseline overall. While it offers a relatively low STDEV (140.75), it aggressively restricts average performance (318.81 FPS) without providing any stability or percentile advantages over the equivalent Windows setup.
