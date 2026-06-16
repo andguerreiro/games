@@ -1,4 +1,4 @@
-# How to extract games names:
+# How to extract games names
 
 With Heroic Games Launcher installed via Flatpak and with the below stores connected:
 
