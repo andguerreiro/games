@@ -523,5 +523,8 @@
 | 521 | Warhammer 40,000 : Speed Freeks | Epic |
 | 522 | The Ouroboros King | Epic |
 | 523 | Happy’s Humble Burger Farm | Steam |
-| 524 | The Red Lantern | Steam |
-| 525 | Eets | Steam |
+| 524 | The Red Lantern | Epic |
+| 525 | Eets | Epic |
+| 526 | ROBOBEAT | Epic |
+| 527 | Citizen Sleeper | Epic |
+
