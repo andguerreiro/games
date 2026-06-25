@@ -527,4 +527,5 @@
 | 525 | Eets | Epic |
 | 526 | ROBOBEAT | Epic |
 | 527 | Citizen Sleeper | Epic |
-
+| 528 | RollerCoaster Tycoon 3 Complete Edition | Epic |
+| 529 | Voidwrought | Epic |
