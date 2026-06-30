@@ -5,7 +5,7 @@ XPG Gammix D10 16GB (2x8GB) DDR4 3200MHz CL16
 SSD Kingston KC3000 512GB NVMe PCIe 4.0 M.2
 ASUS TUF Gaming B550M-Plus (Chipset AMD B550, Socket AM4, Micro ATX)
 DeepCool AK400 Air Cooler
-Noctual NT-H1
+Noctual NT-H1 Thermal Paste
 Cooler Master MWE Gold 650W V3 (80 Plus Gold)
 Corsair 480T Airflow Mid-Tower ATX
 
