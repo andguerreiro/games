@@ -531,3 +531,7 @@
 | 529 | Voidwrought | Epic |
 | 530 | River City Girls 2 | Epic |
 | 531 | I Have No Mouth, and I Must Scream | Epic |
+| 532 | LONESTAR | Epic |
+| 533 | Terraforming Mars | Amazon |
+| 534 | G.I. JOE: Wrath of Cobra | Epic |
+
