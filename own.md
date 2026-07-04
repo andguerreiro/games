@@ -534,4 +534,13 @@
 | 532 | LONESTAR | Epic |
 | 533 | Terraforming Mars | Amazon |
 | 534 | G.I. JOE: Wrath of Cobra | Epic |
-
+| 535 | Between Time: Escape Room | GOG |
+| 536 | Sugardew Island | GOG |
+| 537 | Space Grunts 2 | GOG |
+| 538 | Wargame Construction Set III: Age of Rifles 1846-1905 | GOG |
+| 539 | Tested on Humans: Escape Room | GOG |
+| 540 | Sin Slayers: Reign of The 8th | GOG |
+| 541 | Paradise Killer | GOG |
+| 542 | Symphony of War: The Nephilim Saga | Epic |
+| 543 | Space Grunts: Chrono Shard | Epic |
+| 544 | Lost Eidolons: Veil of the Witch | Amazon |
