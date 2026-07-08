@@ -544,3 +544,4 @@
 | 542 | Symphony of War: The Nephilim Saga | Epic |
 | 543 | Space Grunts: Chrono Shard | Epic |
 | 544 | Lost Eidolons: Veil of the Witch | Amazon |
+| 545 | Silence | GOG |
