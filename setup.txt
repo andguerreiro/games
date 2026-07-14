@@ -1,7 +1,7 @@
 # Hardware
 AMD Ryzen 7 5700X (3.4GHz / 4.6GHz Turbo, 8 Cores / 16 Threads, AM4)
 ASUS Dual Radeon RX 7600 8GB GDDR6
-XPG Gammix D10 16GB (2x8GB) DDR4 3200MHz CL16
+XPG Gammix D10 16GB (2x8GB) DDR4 3200MHz CL16 Red
 SSD Kingston KC3000 512GB NVMe PCIe 4.0 M.2
 ASUS TUF Gaming B550M-Plus (Chipset AMD B550, Socket AM4, Micro ATX)
 DeepCool AK400 Air Cooler
