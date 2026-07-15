@@ -1,5 +1,8 @@
-# Debian 13.5 / Arch / CachyOS
-gamemoderun %command%
+# SteamOS / Debian 13 / Arch / CachyOS
+gamemoderun gamescope -w 1280 -h 960 -W 1920 -H 1080 -S stretch -f -- %command%
 
-# Ubuntu 26.04 / 24.04 / Win11
+# Ubuntu 26.04 / 24.04
+gamescope -w 1280 -h 960 -W 1920 -H 1080 -S stretch -f -- %command%
+
+# Win11
 none
