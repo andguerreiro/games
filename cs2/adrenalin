@@ -1,0 +1,17 @@
+# Display Option
+GPU Scaling: Enable
+Scaling Mode: Full Panel
+Integer Scaling: Disable
+
+# Custom Resolution
+Resolution (Px): 1280 x 960
+Refresh Rate (Hz): 240
+Presentation: Progressive
+Timing Standard: CVT - Reduced Blanking
+G.Pixel Clock (kHz): 373000
+G.Refresh Rate (Hz): 239.841
+Timing Total: 1440 x 1080
+Timing Display: 1280 x 960
+Timing Front Porch: 48 x 3
+Timing Sync Width: 32 x 4
+Timing Polarity: Positive x Negative
