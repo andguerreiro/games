@@ -1,0 +1,25 @@
+# Video
+Display Mode: Fullscreen
+Resolution: 1280x960
+Aspect Ratio: 4:3
+Refresh Rate: 240 Hz
+Brightness: 93%
+
+# Advancend Video
+Boost Player Contrast: Enabled
+
+V-Sync: Disabled
+AMD Anti-Lag 2.0: Enabled
+Maximum FPS In Game: 400
+Maximum FPS In Menus: 200
+
+Multisampling Anti-Aliasing Mode: 4x MSAA
+Global Shadow Quality: High
+Dynamic Shadows: All
+Model / Texture Detail: Low
+Texture Filtering Mode: Bilinear
+Shader Detail: Low
+Particle Detail: Low
+Ambient Occlusion: Disable
+High Dynamic Range: Quality
+FidelityFX Super Resolution: Disabled
