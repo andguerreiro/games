@@ -546,3 +546,5 @@
 | 544 | Lost Eidolons: Veil of the Witch | Amazon |
 | 545 | Silence | GOG |
 | 546 | Nova Lands | Epic |
+| 547 | Echo Generation: Midnight Edition | Epic |
+| 548 | Luto | Epic |
