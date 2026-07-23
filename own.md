@@ -548,3 +548,4 @@
 | 546 | Nova Lands | Epic |
 | 547 | Echo Generation: Midnight Edition | Epic |
 | 548 | Luto | Epic |
+| 549 | Foretales | Epic |
