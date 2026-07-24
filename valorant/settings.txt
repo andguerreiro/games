@@ -1,0 +1,59 @@
+========================
+VIDEO
+========================
+Display Mode: Fullscreen
+Resolution: 1920x1080
+Refresh Rate: 240 Hz
+FPS Limit (In-Game): 300
+FPS Limit (Menus): 60
+FPS Limit (Background): 30
+
+Graphics Quality:
+- Material Quality: Low
+- Texture Quality: Low
+- Detail Quality: Low
+- UI Quality: Low
+- Vignette: Off
+- VSync: Off
+- Anti-Aliasing: MSAA 2x
+- Anisotropic Filtering: 4x
+- Improve Clarity: On
+- Experimental Sharpening: On
+- Bloom: Off
+- Distortion: Off
+- Cast Shadows: Off
+
+Performance Stats:
+- Client FPS
+- Frame Time
+- Network RTT
+- Packet Loss
+
+========================
+CROSSHAIR
+========================
+Style: Center Dot Only
+
+Center Dot: On
+Dot Thickness: 2
+Dot Opacity: 1
+
+Outlines: Off
+Inner Lines: Off
+Outer Lines: Off
+
+Color:
+RGB: 0, 255, 255 (Cyan)
+
+========================
+MOUSE
+========================
+DPI: 400
+Sensitivity: 0.60
+eDPI: 240
+
+Scoped Sensitivity Multiplier: 1.0
+ADS Sensitivity Multiplier: 1.0
+
+Polling Rate: 1000 Hz
+Raw Input Buffer: On
