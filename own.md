@@ -549,3 +549,4 @@
 | 547 | Echo Generation: Midnight Edition | Epic |
 | 548 | Luto | Epic |
 | 549 | Foretales | Epic |
+| 550 | Metal: Hellsinger | Steam |
