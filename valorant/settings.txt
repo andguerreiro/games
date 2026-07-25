@@ -15,7 +15,7 @@ Graphics Quality:
 - UI Quality: Low
 - Vignette: Off
 - VSync: Off
-- Anti-Aliasing: MSAA 2x
+- Anti-Aliasing: MSAA 4x
 - Anisotropic Filtering: 4x
 - Improve Clarity: On
 - Experimental Sharpening: On
