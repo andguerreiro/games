@@ -1,0 +1,82 @@
+========================================
+RAINBOW SIX SIEGE SETTINGS
+========================================
+
+DISPLAY
+-------
+Display Mode: Fullscreen
+Resolution: 1920x1080
+Aspect Ratio: 16:9
+Refresh Rate: 240 Hz
+VSync: Off
+FPS Limit: Unlimited
+
+========================================
+GRAPHICS
+========================================
+
+Field of View (FOV): 90
+
+Texture Quality: Medium
+Texture Filtering: 16x
+LOD Quality: Low
+Shading Quality: Low
+Shadow Quality: Low
+Reflection Quality: Low
+Ambient Occlusion: Off
+Lens Effects: Off
+Zoom-In Depth of Field: Off
+
+Anti-Aliasing: T-AA
+Render Scaling: 100%
+Sharpening: 50
+
+Motion Blur: Off
+
+========================================
+CONTROLS
+========================================
+
+Mouse Raw Input: On
+Mouse Acceleration: Off
+
+Horizontal Sensitivity: 8
+Vertical Sensitivity: 8
+
+ADS Sensitivity
+---------------
+1.0x: 50
+2.5x: 50
+3.5x: 50
+5.0x: 50
+12.0x: 50
+
+========================================
+AUDIO
+========================================
+
+Dynamic Range: Hi-Fi
+
+Master Volume: 100
+Dialogue Volume: 50
+Music Volume: 0
+
+========================================
+INTERFACE
+========================================
+
+HUD Opacity: 100%
+
+Show FPS: On
+Show Ping: On
+Show Packet Loss: On
+
+Hit Confirmation: On
+Hit Indicator: On
+
+========================================
+GAMEPLAY
+========================================
+
+Drone After Prep Phase: Off
+Match Replay: On
