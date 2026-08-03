@@ -1,5 +1,4 @@
 # Linux
-gamescope -w 1280 -h 960 -W 1920 -H 1080 -S stretch -r 240 -f -- %command%
-
+gamescope -w 1280 -h 960 -W 1920 -H 1080 -S stretch -r 240 -f --force-grab-cursor -- %command%
 # Win11
 none
