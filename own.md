@@ -551,3 +551,5 @@
 | 549 | Foretales | Epic |
 | 550 | Metal: Hellsinger | Steam |
 | 551 | OTXO | Epic |
+| 552 | High Hell | Steam |
+| 553 | Moonlighter | Steam |
