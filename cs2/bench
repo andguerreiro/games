@@ -1,3 +1,32 @@
+CS2 SETTINGS
+# Video
+Display Mode: Fullscreen
+Resolution: 1280x960
+Aspect Ratio: 4:3
+Refresh Rate: 240 Hz
+Brightness: 93%
+
+# Advancend Video
+Boost Player Contrast: Enabled
+
+V-Sync: Disabled
+AMD Anti-Lag 2.0: Enabled
+Maximum FPS In Game: 400
+Maximum FPS In Menus: 200
+
+Multisampling Anti-Aliasing Mode: 4x MSAA
+Global Shadow Quality: High
+Dynamic Shadows: All
+Model / Texture Detail: Low
+Texture Filtering Mode: Bilinear
+Shader Detail: Low
+Particle Detail: Low
+Ambient Occlusion: Disable
+High Dynamic Range: Quality
+FidelityFX Super Resolution: Disabled
+
+
+BENCH 1
 Computer Information:
 Manufacturer: ASUSTeK COMPUTER INC.
 Model: TUF GAMING B550M-PLUS
@@ -126,4 +155,108 @@ Removable drive sizes: 123G
 [VProf]                  Magic   0.00   0.00      288   0.12   0.29     0.00   0.27       36   0.16   0.32
 [VProf] 
 [VProf] VProfLite stopped.
+
+
+BENCH 2
+Computer Information:
+Manufacturer: ASUSTeK COMPUTER INC.
+Model: TUF GAMING B550M-PLUS
+Form Factor: Desktop
+No Touch Input Detected
+Processor Information:
+CPU Vendor: AuthenticAMD
+CPU Brand: AMD Ryzen 7 5700X 8-Core Processor
+CPU Family: 0x19
+CPU Model: 0x21
+CPU Stepping: 0x2
+CPU Type: 0x0
+Speed: 4665 MHz
+16 logical processors
+8 physical processors
+Hyper-threading: Supported
+FCMOV: Supported
+SSE2: Supported
+SSE3: Supported
+SSSE3: Supported
+SSE4a: Supported
+SSE41: Supported
+SSE42: Supported
+AES: Supported
+AVX: Supported
+AVX2: Supported
+AVX512F: Unsupported
+AVX512PF: Unsupported
+AVX512ER: Unsupported
+AVX512CD: Unsupported
+AVX512VNNI: Unsupported
+SHA: Supported
+CMPXCHG16B: Supported
+LAHF/SAHF: Supported
+PrefetchW: Unsupported
+BMI1: Supported
+BMI2: Supported
+F16C: Supported
+FMA: Supported
+Operating System:
+Arch Linux (64 bit)
+Kernel Name: Linux
+Kernel Version: 7.1.6-zen1-1-zen
+X Server Vendor: The X.Org Foundation
+X Server Release: 12101024
+X Window Manager: Xfwm4
+Steam Runtime Version: steam-runtime_1.0.20260618.246542
+Client Information:
+Version: 1785799196
+Browser GPU Acceleration Status: Enabled
+Browser Canvas: Enabled
+Browser Canvas out-of-process rasterization: Enabled
+Browser Direct Rendering Display Compositor: Disabled
+Browser Compositing: Disabled
+Browser Multiple Raster Threads: Enabled
+Browser OpenGL: Enabled
+Browser Rasterization: Enabled
+Browser Raw Draw: Disabled
+Browser Skia Graphite: Disabled
+Browser Video Decode: Enabled
+Browser Video Encode: Disabled
+Browser Vulkan: Disabled
+Browser WebGL: Enabled: Software Readback
+Browser WebGL2: Enabled: Software Readback
+Browser WebGPU: Disabled
+Browser WebNN: Disabled
+Video Card:
+Driver: AMD AMD Radeon RX 7600 (radeonsi, navi33, ACO, DRM 3.64, 7.1.6-zen1-1-zen)
+Driver Version: 4.6 (Compatibility Profile) Mesa 26.1.6-arch1.1
+OpenGL Version: 4.6
+Desktop Color Depth: 24 bits per pixel
+Monitor Refresh Rate: 239 Hz
+VendorID: 0x1002
+DeviceID: 0x7480
+Revision Not Detected
+Number of Monitors: 1
+Number of Logical Video Cards: 1
+Primary Display Resolution: 1920 x 1080
+Desktop Resolution: 1920 x 1080
+Primary Display Size: 21.42" x 11.93" (24.49" diag), 54.4cm x 30.3cm (62.2cm diag)
+Primary VRAM: 8192 MB
+Sound card:
+Audio device: USB Mixer
+Memory:
+RAM: 15891 Mb
+VR Hardware:
+VR Headset: None detected
+No VR configuration with trackers detected
+Most number of trackers in a session: 0
+Miscellaneous:
+UI Language: English
+LANG: en_US.UTF-8
+Total Hard Disk Space Available: 431241 MB
+Largest Free Hard Disk Block: 358744 MB
+Storage:
+Number of SSDs: 1
+SSD sizes: 512G
+Number of HDDs: 0
+Number of removable drives: 0
+
+
 
