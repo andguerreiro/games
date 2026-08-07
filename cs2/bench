@@ -258,5 +258,30 @@ SSD sizes: 512G
 Number of HDDs: 0
 Number of removable drives: 0
 
-
-
+[VProf] 
+[VProf] -- Performance report --
+[VProf] Summary of 57837 frames and 121 1-second intervals.  (8430 frames excluded from analysis.)
+[VProf] FPS: Avg=481.1, P1=193.7
+[VProf] 
+[VProf]                         All frames         Active frames       1s max (all)      1s max (active)  
+[VProf]                           Avg    P99        N    Avg    P99      P50    P95        N    P50    P95
+[VProf] ---------------------- ------ ------   ------ ------ ------   ------ ------   ------ ------ ------
+[VProf]             FrameTotal   2.08   5.16    57837   2.08   5.16     5.56   6.81      121   5.56   6.81
+[VProf]       Client Rendering   1.38   3.55    57837   1.38   3.55     1.99   3.59      121   1.99   3.59
+[VProf]         Frame Boundary   1.01   2.87    57837   1.01   2.87     1.75   3.26      121   1.75   3.26
+[VProf]   Present_RenderDevice   0.31   2.18    57837   0.31   2.18     0.78   2.27      121   0.78   2.27
+[VProf]      Server Simulation   0.23   2.14     7693   1.75   2.36     2.23   2.90      121   2.23   2.90
+[VProf]      Client Simulation   0.23   0.81    57837   0.23   0.81     0.87   1.06      121   0.87   1.06
+[VProf]            Server Game   0.19   1.80     7693   1.44   1.97     1.87   2.56      121   1.87   2.56
+[VProf]    ClientSimulateFrame   0.19   0.35    57837   0.19   0.35     0.34   0.46      121   0.34   0.46
+[VProf]           UserCommands   0.08   0.71     7693   0.61   0.82     0.78   1.04      121   0.78   1.04
+[VProf]     ClientSimulateTick   0.04   0.50     7693   0.33   0.60     0.56   0.74      121   0.56   0.74
+[VProf]       Server Animation   0.04   0.33     7693   0.30   0.36     0.35   0.42      121   0.35   0.42
+[VProf]                   NPCs   0.03   0.24     7693   0.19   0.29     0.27   0.68      121   0.27   0.68
+[VProf] Server Send Networking   0.02   0.21     7693   0.18   0.26     0.23   0.29      121   0.23   0.29
+[VProf]             Networking   0.02   0.17     7697   0.15   0.20     0.23   0.54      121   0.23   0.54
+[VProf]    Server PackEntities   0.01   0.12     7693   0.11   0.15     0.16   0.21      121   0.16   0.21
+[VProf]         SoundOperators   0.00   0.12      753   0.18   0.38     0.22   0.37      112   0.22   0.37
+[VProf]                  Magic   0.00   0.00      286   0.12   0.30     0.00   0.28       36   0.18   0.31
+[VProf] 
+[VProf] VProfLite stopped.
