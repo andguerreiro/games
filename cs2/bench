@@ -1,3 +1,23 @@
+HARDWARE
+Ryzen 7 5700X
+ASUS Dual RX 7600
+16GB XPG DDR4 3200MHz (2x8GB)
+Kingston KC3000
+ASUS TUF B550M-Plus
+DeepCool AK400
+Noctua NT-H1
+Cooler Master MWE Gold 650W V3
+Corsair 480T Airflow
+
+PERIPHERALS
+Zowie XL2546K
+Zowie EC2-DW
+SteelSeries QcK Large Black
+Razer Huntsman V3 Pro Mini
+GraveAudio DA06 (CX31993)
+Sennheiser IE 100 PRO
+Comfast CF-WU785AC AC1300 (MT7612U)
+
 CS2 SETTINGS
 # Video
 Display Mode: Fullscreen
@@ -25,6 +45,8 @@ Ambient Occlusion: Disable
 High Dynamic Range: Quality
 FidelityFX Super Resolution: Disabled
 
+CS2 FPS BENCHMARK DUST2
+https://steamcommunity.com/workshop/filedetails/?id=3240880604
 
 BENCH 1
 Computer Information:
