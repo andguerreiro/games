@@ -48,7 +48,7 @@ FidelityFX Super Resolution: Disabled
 CS2 FPS BENCHMARK DUST2
 https://steamcommunity.com/workshop/filedetails/?id=3240880604
 
-BENCH 1
+BENCH 1 = Debian + XFCE/Xfwm4 + X11 + compositor OFF
 Computer Information:
 Manufacturer: ASUSTeK COMPUTER INC.
 Model: TUF GAMING B550M-PLUS
@@ -179,7 +179,7 @@ Removable drive sizes: 123G
 [VProf] VProfLite stopped.
 
 
-BENCH 2
+BENCH 2 = Arch + XFCE/Xfwm4 + X11 + compositor OFF
 Computer Information:
 Manufacturer: ASUSTeK COMPUTER INC.
 Model: TUF GAMING B550M-PLUS
@@ -309,7 +309,7 @@ Number of removable drives: 0
 [VProf] VProfLite stopped.
 
 
-BENCH 3
+BENCH 3 = KDE Plasma + KWin + Wayland
 Computer Information:
 Manufacturer: ASUSTeK COMPUTER INC.
 Model: TUF GAMING B550M-PLUS
@@ -441,7 +441,7 @@ Removable drive sizes: 123G
 [VProf] VProfLite stopped.
 
 
-BENCH 4
+BENCH 4 = GNOME + Wayland
 Computer Information:
 Manufacturer: ASUSTeK COMPUTER INC.
 Model: TUF GAMING B550M-PLUS
@@ -574,7 +574,7 @@ Removable drive sizes: 123G
 [VProf] VProfLite stopped.
 
 
-BENCH 5
+BENCH 5 = COSMIC + Wayland
 Computer Information:
 Manufacturer: ASUSTeK COMPUTER INC.
 Model: TUF GAMING B550M-PLUS
