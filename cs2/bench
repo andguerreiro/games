@@ -388,7 +388,6 @@ Number of HDDs: 0
 Number of removable drives: 1
 Removable drive sizes: 123G
 
-WAYLAND:
 [VProf] 
 [VProf] -- Performance report --
 [VProf] Summary of 56404 frames and 121 1-second intervals.  (7198 frames excluded from analysis.)
@@ -418,5 +417,136 @@ WAYLAND:
 [VProf] 
 [VProf] VProfLite stopped.
 
-X11:
+BENCH 4
+Computer Information:
+Manufacturer: ASUSTeK COMPUTER INC.
+Model: TUF GAMING B550M-PLUS
+Form Factor: Desktop
+No Touch Input Detected
+Processor Information:
+CPU Vendor: AuthenticAMD
+CPU Brand: AMD Ryzen 7 5700X 8-Core Processor
+CPU Family: 0x19
+CPU Model: 0x21
+CPU Stepping: 0x2
+CPU Type: 0x0
+Speed: 4665 MHz
+16 logical processors
+8 physical processors
+Hyper-threading: Supported
+FCMOV: Supported
+SSE2: Supported
+SSE3: Supported
+SSSE3: Supported
+SSE4a: Supported
+SSE41: Supported
+SSE42: Supported
+AES: Supported
+AVX: Supported
+AVX2: Supported
+AVX512F: Unsupported
+AVX512PF: Unsupported
+AVX512ER: Unsupported
+AVX512CD: Unsupported
+AVX512VNNI: Unsupported
+SHA: Supported
+CMPXCHG16B: Supported
+LAHF/SAHF: Supported
+PrefetchW: Unsupported
+BMI1: Supported
+BMI2: Supported
+F16C: Supported
+FMA: Supported
+Operating System:
+Arch Linux (64 bit)
+Kernel Name: Linux
+Kernel Version: 7.1.6-zen1-1-zen
+X Server Vendor: The X.Org Foundation
+X Server Release: 12401013
+X Window Manager: GNOME Shell
+Steam Runtime Version: steam-runtime_1.0.20260618.246542
+Client Information:
+Version: 1785799196
+Browser GPU Acceleration Status: Enabled
+Browser Canvas: Enabled
+Browser Canvas out-of-process rasterization: Enabled
+Browser Direct Rendering Display Compositor: Disabled
+Browser Compositing: Enabled
+Browser Multiple Raster Threads: Enabled
+Browser OpenGL: Enabled
+Browser Rasterization: Enabled
+Browser Raw Draw: Disabled
+Browser Skia Graphite: Disabled
+Browser Video Decode: Enabled
+Browser Video Encode: Disabled
+Browser Vulkan: Disabled
+Browser WebGL: Enabled
+Browser WebGL2: Enabled
+Browser WebGPU: Disabled
+Browser WebNN: Disabled
+Video Card:
+Driver: AMD AMD Radeon RX 7600 (radeonsi, navi33, ACO, DRM 3.64, 7.1.6-zen1-1-zen)
+Driver Version: 4.6 (Compatibility Profile) Mesa 26.1.6-arch1.1
+OpenGL Version: 4.6
+Desktop Color Depth: 24 bits per pixel
+Monitor Refresh Rate: 59 Hz
+VendorID: 0x1002
+DeviceID: 0x7480
+Revision Not Detected
+Number of Monitors: 1
+Number of Logical Video Cards: 1
+Primary Display Resolution: 1920 x 1080
+Desktop Resolution: 1920 x 1080
+Primary Display Size: 21.26" x 11.81" (24.29" diag), 54.0cm x 30.0cm (61.7cm diag)
+Primary VRAM: 8192 MB
+Sound card:
+Audio device: USB Mixer
+Memory:
+RAM: 15891 Mb
+VR Hardware:
+VR Headset: None detected
+No VR configuration with trackers detected
+Most number of trackers in a session: 0
+Miscellaneous:
+UI Language: English
+LANG: en_US.UTF-8
+Total Hard Disk Space Available: 431241 MB
+Largest Free Hard Disk Block: 336626 MB
+Storage:
+Number of SSDs: 1
+SSD sizes: 512G
+Number of HDDs: 0
+Number of removable drives: 1
+Removable drive sizes: 123G
+
+
+[VProf] 
+[VProf] -- Performance report --
+[VProf] Summary of 56448 frames and 120 1-second intervals.  (8500 frames excluded from analysis.)
+[VProf] FPS: Avg=471.3, P1=183.5
+[VProf] 
+[VProf]                         All frames         Active frames       1s max (all)      1s max (active)  
+[VProf]                           Avg    P99        N    Avg    P99      P50    P95        N    P50    P95
+[VProf] ---------------------- ------ ------   ------ ------ ------   ------ ------   ------ ------ ------
+[VProf]             FrameTotal   2.12   5.45    56448   2.12   5.45     5.93   7.23      120   5.93   7.23
+[VProf]       Client Rendering   1.38   2.80    56448   1.38   2.80     2.06   3.67      120   2.06   3.67
+[VProf]         Frame Boundary   1.01   2.84    56448   1.01   2.84     1.73   3.24      120   1.73   3.24
+[VProf]   Present_RenderDevice   0.29   2.15    56448   0.29   2.15     0.74   2.32      120   0.74   2.32
+[VProf]      Server Simulation   0.24   2.16     7666   1.80   2.37     2.30   3.05      120   2.30   3.05
+[VProf]      Client Simulation   0.24   0.85    56448   0.24   0.85     0.89   1.15      120   0.89   1.15
+[VProf]            Server Game   0.20   1.87     7666   1.48   2.16     1.93   2.65      120   1.93   2.65
+[VProf]    ClientSimulateFrame   0.20   0.36    56448   0.20   0.36     0.37   0.47      120   0.37   0.47
+[VProf]           UserCommands   0.09   0.74     7666   0.63   0.88     0.81   1.07      120   0.81   1.07
+[VProf]     ClientSimulateTick   0.05   0.53     7666   0.34   0.60     0.57   0.79      120   0.57   0.79
+[VProf]       Server Animation   0.04   0.34     7666   0.31   0.38     0.37   0.47      120   0.37   0.47
+[VProf]                   NPCs   0.03   0.25     7666   0.20   0.27     0.28   0.68      120   0.28   0.68
+[VProf] Server Send Networking   0.03   0.20     7666   0.18   0.25     0.24   0.31      120   0.24   0.31
+[VProf]             Networking   0.02   0.18     7669   0.16   0.22     0.22   0.54      120   0.22   0.54
+[VProf]    Server PackEntities   0.02   0.13     7666   0.12   0.17     0.16   0.21      120   0.16   0.21
+[VProf]     InterpolationLatch   0.01   0.11     7666   0.10   0.13     0.13   0.16      120   0.13   0.16
+[VProf]         SoundOperators   0.00   0.00      552   0.17   0.36     0.19   0.35       94   0.22   0.36
+[VProf]                  Magic   0.00   0.00      288   0.12   0.29     0.00   0.27       37   0.17   0.29
+[VProf]      PanoramaTextPango   0.00   0.00        1   0.13   0.13     0.00   0.00        1   0.13   0.13
+[VProf] 
+[VProf] VProfLite stopped.
 
