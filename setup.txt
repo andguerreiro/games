@@ -1,4 +1,4 @@
-# Hardware
+HARDWARE
 Ryzen 7 5700X
 ASUS Dual RX 7600
 16GB XPG DDR4 3200MHz (2x8GB)
@@ -9,7 +9,7 @@ Noctua NT-H1
 Cooler Master MWE Gold 650W V3
 Corsair 480T Airflow
 
-# Peripherals
+PERIPHERALS
 Zowie XL2546K
 Zowie EC2-DW
 SteelSeries QcK Large Black
