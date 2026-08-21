@@ -556,3 +556,4 @@
 | 554 | Beacon Pines | Epic |
 | 555 | Breathedge | Steam |
 | 556 | Caravan SandWitch | Epic |
+| 557 | Cardpocalypse Standard Edition | Epic |
