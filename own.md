@@ -562,3 +562,5 @@
 | 560 | Rival Stars Horse Racing: Desktop Edition | Epic |
 | 561 | Alone With You | Epic |
 | 562 |  State of Mind  | GOG |
+| 563 | Astral Ascent | Epic |
+| 564 | Luftrausers | Epic |
