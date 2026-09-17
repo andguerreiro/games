@@ -565,3 +565,5 @@
 | 563 | Astral Ascent | Epic |
 | 564 | Luftrausers | Epic |
 | 565 | Crystal Crisis | Steam |
+| 566 | Mindcop | Epic |
+| 567 | Shogun Showdown | Epic |
