@@ -21,4 +21,4 @@
 | IEM | Sennheiser IE 100 PRO | KZ Castor Harman Standard |
 | IEM Cable | Stock | KZ-90-8 784 core  |
 | Eartips | Stock | TRI Clarion Silicone Eartips |
-| Wi-Fi Adapter | Comfast CF-WU785AC AC1300 (MT7612U) | Comfast CF-WU785AC AC1300 (MT7612U) |
+| Wi-Fi Adapter | EDUP 802.11ac | Comfast CF-WU785AC AC1300 (MT7612U) |
