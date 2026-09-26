@@ -17,7 +17,7 @@
 | Keycaps | Stock | Akko Dracula Castle Keycap Set (198-key) |
 | Mouse | Zowie EC2-DW | VXE R1 Pro |
 | Mousepad | SteelSeries QcK Large Black | Fantech Agile M353 |
-| DAC | GraveAudio DA06 (CX31993) | GraveAudio DA06 (CX31993) |
+| DAC | KZ AM01 | GraveAudio DA06 (CX31993) |
 | IEM | Sennheiser IE 100 PRO | KZ Castor Harman Standard |
 | IEM Cable | Stock | KZ-90-8 784 core  |
 | Eartips | Stock | TRI Clarion Silicone Eartips |
