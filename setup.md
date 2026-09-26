@@ -10,7 +10,7 @@
 | CPU Cooler | DeepCool AG620 | DeepCool AK400 |
 | Thermal Paste | Noctua NT-H1 | Noctua NT-H1 |
 | PSU | Corsair CX650 | Cooler Master MWE Gold 650W V3 |
-| Case | Corsair 480T Airflow | Corsair 480T Airflow |
+| Case | Superframe Lion | Corsair 480T Airflow |
 | Monitor | Zowie XL2546K | AOC Q27G4F |
 | Keyboard | Razer Huntsman V3 Pro Mini | AULA F87 |
 | Switches | Stock | Akko V3 Cream Blue |
