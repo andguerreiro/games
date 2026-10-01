@@ -568,3 +568,16 @@
 | 566 | Mindcop | Epic |
 | 567 | Shogun Showdown | Epic |
 | 568 | Mechabellum | Epic |
+| 569 | DOOM Eternal Standard Edition (PC) | Xbox |
+| 570 | Botany Manor | Epic |
+| 571 | DOOM + DOOM II | GOG |
+| 572 | Drop Duchy | Epic |
+| 573 | Just Die Already | Epic |
+| 574 | War Hospital | Epic |
+| 575 | Havendock | Amazon |
+| 576 | Weakless | GOG |
+| 577 | Zoria: Age of Shattering | GOG |
+| 578 | Hue | Epic |
+| 579 | High on Life | Epic |
+| 580 | RiMS Racing | Epic |
+| 581 | Wall World 2 | Amazon |
