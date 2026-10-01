@@ -581,3 +581,5 @@
 | 579 | High on Life | Epic |
 | 580 | RiMS Racing | Epic |
 | 581 | Wall World 2 | Amazon |
+| 582 | BURIED STARS | Epic |
+| 583 | System Shock 2: 25th Anniversary Remaster | Epic |
