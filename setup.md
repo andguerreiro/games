@@ -12,10 +12,10 @@
 | PSU | Corsair CX650 | Cooler Master MWE Gold 650W V3 |
 | Case | Superframe Lion | Corsair 480T Airflow |
 | Monitor | Zowie XL2546K | AOC Q27G4F |
-| Keyboard | Razer Huntsman V3 Pro Mini | AULA F87 |
-| Switches | Stock | Akko V3 Cream Blue |
+| Keyboard | Razer Huntsman V3 Pro Mini | Keychron J2 |
+| Switches | Stock | Akko Bittersweet |
 | Keycaps | Stock | Akko Dracula Castle Keycap Set (198-key) |
-| Mouse | Zowie EC2-DW | VXE R1 Pro |
+| Mouse | Zowie EC2-DW | Keychron M3 mini |
 | Mousepad | SteelSeries QcK Large Black | Fantech Agile M353 |
 | DAC | KZ AM01 | GraveAudio DA06 (CX31993) |
 | IEM | Sennheiser IE 100 PRO | KZ Castor Harman Standard |
