@@ -16,7 +16,7 @@
 | Switches | Stock | Akko Bittersweet |
 | Keycaps | Stock | Akko Dracula Castle Keycap Set (198-key) |
 | Mouse | Zowie EC2-DW | Keychron M3 mini |
-| Mousepad | SteelSeries QcK Large Black | Fantech Agile M353 |
+| Mousepad | SteelSeries QcK Large Black | Logitech G240 |
 | DAC | KZ AM01 | GraveAudio DA06 (CX31993) |
 | IEM | Sennheiser IE 100 PRO | KZ Castor Harman Standard |
 | IEM Cable | Stock | KZ-90-8 784 core  |
