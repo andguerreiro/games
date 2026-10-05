@@ -584,3 +584,5 @@
 | 582 | BURIED STARS | Epic |
 | 583 | System Shock 2: 25th Anniversary Remaster | Epic |
 | 584 | Bounty Train | GOG |
+| 585 | Five Nights at Freddy's: Into the Pit | Epic |
+| 586 | DOOM (2016) | GOG |
