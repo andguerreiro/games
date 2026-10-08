@@ -13,7 +13,7 @@
 | Case | Superframe Lion | Corsair 480T Airflow |
 | Monitor | Zowie XL2546K | AOC Q27G4F |
 | Keyboard | Razer Huntsman V3 Pro Mini | Keychron J2 |
-| Switches | Razer Analog Optical Gen-2 | Akko Bittersweet |
+| Switches | Stock | Akko Bittersweet |
 | Keycaps | Stock | Akko Dracula Kit (ASA) |
 | Mouse | Zowie EC2-DW | Keychron M3 mini |
 | Mousepad | SteelSeries QcK Large Black | Logitech G240 |
