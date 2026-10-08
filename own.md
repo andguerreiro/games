@@ -586,3 +586,5 @@
 | 584 | Bounty Train | GOG |
 | 585 | Five Nights at Freddy's: Into the Pit | Epic |
 | 586 | DOOM (2016) | GOG |
+| 587 | TerraScape | Epic |
+| 588 | Out of Sight | Epic |
