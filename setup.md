@@ -1,6 +1,6 @@
 | Item | From | To |
 |---|---|---|
-| OS | Win11 | Arch |
+| OS | Windows | Linux |
 | Use | Competitive FPS | Browsing, Coding, Rare Indie Gaming |
 | CPU | Intel Core i5-13600KF | AMD Ryzen 7 5700X |
 | GPU | NVIDIA GeForce RTX 4070 | ASUS Dual RX 7600 |
@@ -14,11 +14,11 @@
 | Monitor | Zowie XL2546K | AOC Q27G4F |
 | Keyboard | Razer Huntsman V3 Pro Mini | Keychron J2 |
 | Switches | Razer Analog Optical Gen-2 | Akko Bittersweet |
-| Keycaps | Stock | Stock |
+| Keycaps | Stock | Akko Dracula Kit (ASA) |
 | Mouse | Zowie EC2-DW | Keychron M3 mini |
 | Mousepad | SteelSeries QcK Large Black | Logitech G240 |
 | DAC | KZ AM01 | GraveAudio DA06 (CX31993) |
-| IEM | Sennheiser IE 100 PRO | KZ Castor Harman Standard |
-| IEM Cable | Stock | KZ-90-8 784 core  |
-| Eartips | Stock | TRI Clarion Silicone Eartips |
+| IEM | Sennheiser IE 100 PRO | KZ Castor Harman |
+| IEM Cable | Stock | KBEAR ST12 |
+| Eartips | Stock | TRI Clarion |
 | Wi-Fi Adapter | EDUP 802.11ac | Comfast CF-WU785AC AC1300 (MT7612U) |
