@@ -588,3 +588,5 @@
 | 586 | DOOM (2016) | GOG |
 | 587 | TerraScape | Epic |
 | 588 | Out of Sight | Epic |
+| 589 | WarBreeds | GOG |
+| 590 | Conarium | GOG |
