@@ -20,5 +20,5 @@
 | DAC | KZ AM01 | GraveAudio DA06 (CX31993) |
 | IEM | Sennheiser IE 100 PRO | KZ Castor Harman |
 | IEM Cable | Stock | KBEAR ST12 |
-| Eartips | Stock | TRI Clarion |
+| Eartips | Stock | Stock |
 | Wi-Fi Adapter | EDUP 802.11ac | Comfast CF-WU785AC AC1300 (MT7612U) |
