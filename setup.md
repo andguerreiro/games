@@ -18,7 +18,7 @@
 | Mouse | Zowie EC2-DW | Keychron M3 mini |
 | Mousepad | SteelSeries QcK Large Black | Logitech G240 |
 | DAC | KZ AM01 | GraveAudio DA06 (CX31993) |
-| IEM | Sennheiser IE 100 PRO | KZ Castor Harman |
-| IEM Cable | Stock | KBEAR ST12 |
+| IEM | Sennheiser IE 100 PRO | TRUTHEAR x Crinacle ZERO:RED |
+| IEM Cable | Stock | Stock |
 | Eartips | Stock | Stock |
 | Wi-Fi Adapter | EDUP 802.11ac | Comfast CF-WU785AC AC1300 (MT7612U) |
