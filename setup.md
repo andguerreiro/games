@@ -1,7 +1,7 @@
 | Item | From | To |
 |---|---|---|
 | OS | Windows | Linux |
-| Use | Competitive FPS | Browsing, Coding, Rare Indie Gaming |
+| Use | Competitive FPS | Browsing, Coding, Streaming |
 | CPU | Intel Core i5-13600KF | AMD Ryzen 7 5700X |
 | GPU | NVIDIA GeForce RTX 4070 | ASUS Dual RX 7600 |
 | RAM | 16GB XPG DDR4 3200MHz (2x8GB) | 16GB XPG DDR4 3200MHz (2x8GB) |
