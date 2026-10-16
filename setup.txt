@@ -1,0 +1,19 @@
+OS: Linux
+CPU: AMD Ryzen 7 5700X
+GPU: ASUS Dual RX 7600
+RAM: 16GB XPG DDR4 3200MHz (2x8GB)
+NVMe: Kingston KC3000
+Motherboard: ASUS TUF B550M-Plus
+CPU Cooler: DeepCool AK400
+Thermal Paste: Noctua NT-H1
+PSU: Cooler Master MWE Gold 650W V3
+Case: Corsair 480T Airflow
+Monitor: AOC Q27G4F
+Keyboard: Keychron J2
+Switches: Akko Bittersweet
+Keycaps: Akko Dracula Kit (ASA)
+Mouse: Keychron M3 mini
+Mousepad: Logitech G240
+DAC: GraveAudio DA06 (CX31993)
+IEM: TRUTHEAR x Crinacle ZERO:RED
+Wi-Fi: Comfast CF-WU785AC AC1300 (MT7612U)
