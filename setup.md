@@ -4,11 +4,11 @@
 | Use | Competitive FPS | Browsing, Coding, Streaming |
 | CPU | Intel Core i5-13600KF | AMD Ryzen 7 5700X |
 | GPU | NVIDIA GeForce RTX 4070 | ASUS Dual RX 7600 |
-| RAM | 16GB XPG DDR4 3200MHz (2x8GB) | 16GB XPG DDR4 3200MHz (2x8GB) |
-| NVMe SSD | Kingston KC3000 | Kingston KC3000 |
+| RAM | 16GB XPG DDR4 3200MHz (2x8GB) | Same |
+| NVMe SSD | Kingston KC3000 | Same |
 | Motherboard | ASRock B660M Phantom Gaming 4 | ASUS TUF B550M-Plus |
 | CPU Cooler | DeepCool AG620 | DeepCool AK400 |
-| Thermal Paste | Noctua NT-H1 | Noctua NT-H1 |
+| Thermal Paste | Noctua NT-H1 | Same |
 | PSU | Corsair CX650 | Cooler Master MWE Gold 650W V3 |
 | Case | Superframe Lion | Corsair 480T Airflow |
 | Monitor | Zowie XL2546K | AOC Q27G4F |
