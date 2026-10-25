@@ -14,5 +14,5 @@ Keycaps: Akko Dracula Kit (ASA)
 Mouse: Keychron M3 mini
 Mousepad: Logitech G240
 DAC: GraveAudio DA06 (CX31993)
-IEM: TRUTHEAR x Crinacle ZERO:RED
+IEM: Kefine Klean
 Wi-Fi: Comfast CF-WU785AC AC1300 (MT7612U)
